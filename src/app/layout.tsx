@@ -2,7 +2,7 @@ import './globals.css';
 
 export const metadata = {
   title: 'UniFlow',
-  description: 'Tu ecosistema universitario',
+  description: 'Ecosistema universitario',
 };
 
 export default function RootLayout({
